@@ -1,1 +1,2 @@
-"Hello Jenkins modified"
+#!/bin/bash
+echo "Hello Jenkins modified"
